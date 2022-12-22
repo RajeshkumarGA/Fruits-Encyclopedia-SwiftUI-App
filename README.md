@@ -26,3 +26,19 @@ Project Contains
 6.Learn how to use the new Link View in SwiftUI 4.0
 
 7.Learn how to use the new Goup Box View in SwiftUI 4.0 Learn how to use the new Disclosure View in SwiftUI 4.0 How to display views dynamically in a List View with a loop
+
+8.How to develop a unique Onboarding screen
+
+9.How to use the new AppStorage in SwiftUI 2.0
+
+10.How to save and load data using UserDefaults
+
+11.How to create custom Views with SwiftUI
+
+12.How to retrieve local data using Structs in Swift 5.3
+
+13.How to display multiple Views automatically with ForEach loop
+
+14.How to use scroll view, horizontal view, vertical view containers
+
+15.How to create an outstanding Settings view
