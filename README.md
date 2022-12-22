@@ -14,9 +14,15 @@ DARK Mode
 Project Contains 
 
 1.How to create an Onboarding Screen with Page Tab View
+
 2.How to store the state of the app with the new App Storage
-3.How to display an Onboarding or a Home screen Understand how the new App Life Cycle works in SwiftUI 2.0
+
+3.How to display an Onboarding or a Home screen Understand how the new App Life Cycle works in SwiftUI 4.0
+
 4.How to develop an iOS 15 application with SwiftUI 4.0 framework
+
 5.How to create a data model and fetch data using Swift language
+
 6.Learn how to use the new Link View in SwiftUI 4.0
+
 7.Learn how to use the new Goup Box View in SwiftUI 4.0 Learn how to use the new Disclosure View in SwiftUI 4.0 How to display views dynamically in a List View with a loop
